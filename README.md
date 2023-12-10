@@ -19,7 +19,7 @@ Implementasikan konsep modularisasi pada kode program pada praktikum sebelumnya 
         'host' => 'localhost',
         'username' => 'root',
         'password' => '',
-        'latihan1' => 'mobildb',
+        'mobildb' => 'mobildb',
     ];
 
     ?>
